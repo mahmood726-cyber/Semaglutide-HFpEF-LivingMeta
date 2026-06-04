@@ -1,0 +1,8 @@
+{
+  "drug": "Semaglutide HFp EF",
+  "drug_lower": "semaglutide hfp ef",
+  "condition": "Adults with HFpEF LVEF 45 and obesity BMI 30",
+  "slug": "semaglutide_hfpef",
+  "source_repo": "C:\\Projects\\Semaglutide-HFpEF-LivingMeta",
+  "source_html": "SEMAGLUTIDE_HFPEF_REVIEW.html"
+}
