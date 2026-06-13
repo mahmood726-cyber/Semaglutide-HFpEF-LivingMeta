@@ -1,0 +1,10 @@
+{
+  "name": "semaglutide-hfpef-livingmeta",
+  "version": "16.0.0",
+  "private": true,
+  "description": "Living meta-analysis dashboard: semaglutide in HFpEF with obesity",
+  "scripts": {
+    "test": "node tests/smoke.test.js"
+  },
+  "license": "MIT"
+}
